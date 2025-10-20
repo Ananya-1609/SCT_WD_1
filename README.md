@@ -27,13 +27,6 @@ I chose **HealthSphere**, a wellness-based website concept, and focused on impro
 ## 🎯 Focus Areas  
 Usability | Modern Aesthetics | User Experience | Responsive Design  
 
----
-
-## 📸 Preview  
-![HealthSphere Preview](<img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/4fa6bd59-47ee-41c0-9e70-f06975a4d0ef" />
-.png) 
-
----
 
 ## 📢 Internship Info  
 **Track:** Web Development  
